@@ -1,14 +1,14 @@
 BulutfonCart Lite (Beta)
 ===
 
-![Bulutfon Banner](http://www.opencart.com/opencart/image/cache/data/extension/1430225112.bulutfoncartbanner-693x200.jpg)
+![Bulutfon Banner](http://i.imgur.com/HTmTBkF.png)
 
 Bulutfon sanal santral için geliştirilen opencart eklentisi.
 
-* Uygulama GNU Lisanslıdır.
-* Hiç bir şekilde satılamaz.
-* Uygulama sayfalarında kullanılan projekod logo ve bilgi metinleri değiştirilemez.
-* Uygulama kodları içerisine değiştirilemez olarak belirtilen alanlar değiştirilemez.
+Lisans
+===
+
+* Uygulama GNU GENERAL PUBLIC LICENSE Lisanslıdır.
 
 
 Mevzut Özellikler
@@ -27,3 +27,16 @@ Eklentinin Yüklenmesi ve Kullanımı
 - Bulutfon api uygulamasının sayfası üzerinden sitenize yetkilendirme veriniz.
 - Yetkilendirme işlemi başarılı şekilde sonuçlanırsa başka bir ayara gerek kalmadan yukarıda saydığınız özellikleri kullanmaya başlayabilirsiniz.
 
+
+Teşekkür
+===
+
+Bulutfon Teknik ekibinden **Hamit Türku Kaya** ve Firma Ceosu **Onur Özgür Özkan**'a Teşekkürler.
+
+
+Projekod Hakkında
+===
+
+![Projekod Logo](http://i.imgur.com/WZIIUJn.png)
+
+Projekod Yazılım 2013 yılında Denizli’de kurulan, masaüstü ve Web tabanlı intranet yazılımlar üreten, bunun yanında bir çok projeye outsource destek veren bir firmadır.
