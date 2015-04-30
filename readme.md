@@ -19,6 +19,11 @@ Mevzut Özellikler
 * Müşteri sayfasına Bulutfon adında bir tab ekler ve bu tab altına o müşterinin varsa görüşmelerini listeler.
 
 
+Ekran Görüntüleri
+===
+![Bulutfon Banner](http://i.imgur.com/nIE5C2G.png)
+![Bulutfon Banner](http://i.imgur.com/AtPNE7v.png)
+
 Eklentinin Yüklenmesi ve Kullanımı
 ===
 
