@@ -1,0 +1,31 @@
+{
+  "name": "bulutfon/php-sdk",
+  "description": "Bulutfon sdk for Bulutfon-Api",
+  "keywords": [
+    "oauth",
+    "package",
+    "bulutfon"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "H. Türkü Kaya",
+      "email": "hamit.turku.kaya@bulutfon.com"
+    }
+  ],
+  "require": {
+    "php" : "~5.4",
+    "league/oauth2-client": "~0.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bulutfon\\OAuth2\\Client\\Provider\\": "src/Oauth2/Client/Provider",
+      "Bulutfon\\OAuth2\\Client\\Entity\\": "src/Oauth2/Client/Entity"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Bulutfon\\OAuth2\\Client\\Test\\Provider\\": "tests/"
+    }
+  }
+}

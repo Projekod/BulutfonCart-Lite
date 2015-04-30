@@ -1,0 +1,6 @@
+{
+    "require": {
+      "league/oauth2-client": "0.10.*",
+      "bulutfon/php-sdk": "dev-master"
+    }
+}
