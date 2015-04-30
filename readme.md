@@ -1,6 +1,8 @@
 BulutfonCart Lite (Beta)
 ===
 
+![Bulutfon Banner](http://www.opencart.com/opencart/image/cache/data/extension/1430225112.bulutfoncartbanner-693x200.jpg)
+
 Bulutfon sanal santral için geliştirilen opencart eklentisi.
 
 * Uygulama GNU Lisanslıdır.
