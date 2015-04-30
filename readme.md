@@ -27,13 +27,6 @@ Eklentinin Yüklenmesi ve Kullanımı
 - Bulutfon api uygulamasının sayfası üzerinden sitenize yetkilendirme veriniz.
 - Yetkilendirme işlemi başarılı şekilde sonuçlanırsa başka bir ayara gerek kalmadan yukarıda saydığınız özellikleri kullanmaya başlayabilirsiniz.
 
-
-Teşekkür
-===
-
-Bulutfon Teknik ekibinden **Hamit Türku Kaya** ve Firma Ceosu **Onur Özgür Özkan**'a Teşekkürler.
-
-
 Projekod Hakkında
 ===
 
