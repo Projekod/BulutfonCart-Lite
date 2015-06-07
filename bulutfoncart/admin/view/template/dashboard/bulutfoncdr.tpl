@@ -15,13 +15,13 @@
             </tr>
             </thead>
             <tbody>
-                <?php if($cdrs): ?>
+                <?php if(isset($cdrs) and $cdrs): ?>
                     <?php foreach($cdrs as $cdr) { ?>
                     <tr style="text-align: center">
                         <td><?= $cdr->bf_calltype; ?></td>
                         <td><?= $cdr->direction; ?></td>
                         <td>
-                            <?php if(!empty($cdr->customer_link)): ?>
+                            <?php if(isset($cdr->customer_link) and !empty($cdr->customer_link)): ?>
                                 <div class="btn-group">
                                     <a href='<?=$cdr->customer_link;?>' class="btn btn-info"><?= $cdr->caller; ?></a>
                                     <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-expanded="false">

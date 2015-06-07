@@ -23,8 +23,8 @@ class ControllerDashboardBulutfoncdr extends Controller {
             $this->refreshData($token);
             $filters = []; // ['caller' => 'xxx', 'callee'=> 'yyy', 'time_limit' => 'day'] etc.
 
-            $customer_id = $this->request->get["customer_id"];
-            if($customer_id){
+
+            if(isset($this->request->get["customer_id"]) and $customer_id = $this->request->get["customer_id"]){
                 $this->load->model('sale/customer');
                 if($customer = ($this->model_sale_customer->getCustomer($customer_id))){
                     $phone = $this->formatPhoneNumber($customer["telephone"]);
